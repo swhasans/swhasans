@@ -56,6 +56,9 @@
 
 ### GitHub Profile Stats 💻
 
-[![Deadrep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deadrep&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Deadrep/github-readme-stats)
-
-[![Deadrep's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deadrep&langs_count=8&layout=compact&theme=dark)](https://github.com/Deadrep/github-readme-stats)
+<a href="https://github.com/Deadrep/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deadrep&show_icons=true&theme=dark"height="192px" />
+</a>
+<a href="https://github.com/Deadrep/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deadrep&langs_count=8&layout=compact&theme=dark"height="192px" />
+</a>
