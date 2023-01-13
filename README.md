@@ -60,17 +60,17 @@
 
 <table>
   <tr>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Deadrep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Deadrep&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="192px"/></a>
+    <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Deadrep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Deadrep&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="192px"/></a>
   </tr>
   <tr>
-     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Deadrep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Deadrep&layout=compact&theme=dark" height="192px"/></a>
+    <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Deadrep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Deadrep&layout=compact&theme=dark" height="192px"/></a>
   </tr>
 </table>
 
 > **Note**
 > The "top languages" metric only indicates the languages present in my publicly available code, it does not reflect my level of expertise or proficiency in those languages.
 
-<img width="2%" src="https://visitor-badge.glitch.me/badge?page_id=Deadrep.Deadrep" />
+<p align="center"> <img width="2%" src="https://visitor-badge.glitch.me/badge?page_id=Deadrep.Deadrep" />
 
 
 
