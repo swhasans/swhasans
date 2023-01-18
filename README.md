@@ -62,7 +62,7 @@
 | --- | ----------- |
 
 > **Note**
-> The "top languages" metric only indicates the languages present in my publicly available code, it does not reflect my level of expertise or proficiency in those languages.
+> : The "top languages" metric only indicates the languages present in my publicly available code, it does not reflect my level of expertise or proficiency in those languages.
 
 <p align="center"> <img width="2%" src="https://visitor-badge.glitch.me/badge?page_id=Deadrep.Deadrep" />
 
