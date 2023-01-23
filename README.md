@@ -5,8 +5,8 @@
 #### Where to find me 📨
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedwadoodhasan-5a7bb21a8)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedwadoodhassan@gmail.com)
-[![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:SS3858@live.mdx.ac.uk)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedwadoodhassan+G_H@gmail.com)
+[![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:SS3858+G_H@live.mdx.ac.uk)
 <!-- <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> -->
 
 ### About Myself 👨🏽‍💼 
