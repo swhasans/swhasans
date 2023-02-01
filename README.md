@@ -76,7 +76,7 @@
 
 ### GitHub Profile Stats 💻
 
-|  <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Deadrep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Deadrep&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="192px"/></a> | <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Deadrep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Deadrep&layout=compact&langs_count=8&theme=dark" height="192px"/></a> | <p align="center"> <a href="https://leetcode.com/DeadRep/"><img alt="Deadrep's LeetCode Stats" src="https://leetcard.jacoblin.cool/Deadrep?theme=dark,unicorn&font=Lato&border=0&radius=20" height="192px"/></a> |
+|  <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Deadrep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Deadrep&show_icons=true&include_all_commits=true&count_private=true&theme=dark&font=Lato" height="192px"/></a> | <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Deadrep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Deadrep&layout=compact&langs_count=8&theme=dark&font=Lato" height="192px"/></a> | <p align="center"> <a href="https://leetcode.com/DeadRep/"><img alt="Deadrep's LeetCode Stats" src="https://leetcard.jacoblin.cool/Deadrep?theme=dark&font=Lato" height="192px"/></a> |
 | --- | ----------- | ----------- |
 
 <!-- [![Leetcode Stats](https://leetcode.com/DeadRep/)](https://leetcode.com/DeadRep) -->
