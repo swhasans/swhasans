@@ -1,6 +1,6 @@
 ### Hi there 👋🏽, I'm Syed Wadood Hasan
 
-[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://github.com/Deadrep/Resume/blob/024fe51711f5f3cbfdb2ba936372d09cd6d5d22e/Syed%20W.%20Hasan%20-%20Junior%20Software%20Dev.%20R%C3%A9sum%C3%A9.pdf)
+[![](https://img.shields.io/badge/📄resume-black?&style=for-the-badge)](https://github.com/Deadrep/Resume/blob/024fe51711f5f3cbfdb2ba936372d09cd6d5d22e/Syed%20W.%20Hasan%20-%20Junior%20Software%20Dev.%20R%C3%A9sum%C3%A9.pdf)
 
 #### Where to find me 📨
 
