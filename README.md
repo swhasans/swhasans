@@ -1,4 +1,4 @@
-### Hi there 👋🏽, I'm Syed Wadood Hasan
+### Hi there 👋🏽, I'm Syed W. Hasan
 
 [![](https://img.shields.io/badge/📄resume-black?&style=for-the-badge)](https://github.com/Deadrep/Resume/blob/9bb534f6e9ed4535b1442840a1b31441c970fe3f/Syed%20W.%20Hasan%20-%20Junior%20Software%20Dev.png)
 
