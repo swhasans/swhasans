@@ -10,7 +10,9 @@
 <!-- <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> -->
 
 ### About Myself 👨🏽‍💼 
-
+- ⚡ Passionate Software Developer skilled in programming and problem-solving.
+- 📨 Seeking new opportunities to learn and grow. #RecentGraduate #SoftwareDeveloper
+- 👨🏽‍💻 Excited to join a team where I can continue to learn and grow professionally.
 - 🔭 I’m currently working on: A.I
 - 🌱 I’m currently learning: TensorFlow
 - 👯 I’m looking to collaborate on: Cool Stuff!
