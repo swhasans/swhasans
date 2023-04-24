@@ -1,6 +1,6 @@
 ### Hi there 👋🏽, I'm Syed W. Hasan
 
-[![](https://img.shields.io/badge/📄resume-black?&style=for-the-badge)](https://github.com/Deadrep/Resume/blob/9bb534f6e9ed4535b1442840a1b31441c970fe3f/Syed%20W.%20Hasan%20-%20Junior%20Software%20Dev.png)
+[![](https://img.shields.io/badge/📄resume-black?&style=for-the-badge)](https://github.com/Swhasans/Resume/blob/9bb534f6e9ed4535b1442840a1b31441c970fe3f/Syed%20W.%20Hasan%20-%20Junior%20Software%20Dev.png)
 
 #### Where to find me 📨
 
@@ -79,7 +79,7 @@
 
 ### GitHub Profile Stats 💻
 
-|  <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Deadrep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Deadrep&show_icons=true&include_all_commits=true&count_private=true&theme=dark&font=Lato" height="192px"/></a> | <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Deadrep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Deadrep&layout=compact&langs_count=8&theme=dark&font=Lato" height="192px"/></a> | <p align="center"> <a href="https://leetcode.com/DeadRep/"><img alt="Deadrep's LeetCode Stats" src="https://leetcard.jacoblin.cool/Deadrep?theme=dark&font=Lato" height="192px"/></a> |
+|  <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Swhasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Swhasans&show_icons=true&include_all_commits=true&count_private=true&theme=dark&font=Lato" height="192px"/></a> | <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Swhasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Swhasans&layout=compact&langs_count=8&theme=dark&font=Lato" height="192px"/></a> | <p align="center"> <a href="https://leetcode.com/Swhasan/"><img alt="Swhasan's LeetCode Stats" src="https://leetcard.jacoblin.cool/Swhasan?theme=dark&font=Lato" height="192px"/></a> |
 | --- | ----------- | ----------- |
 
 <!-- [![Leetcode Stats](https://leetcode.com/DeadRep/)](https://leetcode.com/DeadRep) -->
@@ -87,7 +87,7 @@
 > **Note**
 > : The "top languages" metric only indicates the languages present in my publicly available code, it does not reflect my level of expertise or proficiency in those languages.
 
-<p align="center"> <img width="2%" src="https://visitor-badge.glitch.me/badge?page_id=Deadrep.Deadrep" />
+<p align="center"> <img width="2%" src="https://visitor-badge.glitch.me/badge?page_id=Swhasans.Swhasans" />
 
 <!-- ------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------ -->
