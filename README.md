@@ -13,8 +13,8 @@
 - ⚡ Passionate Software Developer skilled in programming and problem-solving.
 - 📨 Seeking new opportunities to learn and grow. #RecentGraduate #SoftwareDeveloper
 - 👨🏽‍💻 Excited to join a team where I can continue to learn and grow professionally.
-- 🔭 I’m currently working on: A.I
-- 🌱 I’m currently learning: TensorFlow
+- 🔭 I’m currently working on: The Odin Project
+- 🌱 I’m currently learning: JavsScript Frameworks
 - 👯 I’m looking to collaborate on: Cool Stuff!
 - 📫 How to reach me: syedwadoodhassan@gmail.com
 
