@@ -15,7 +15,6 @@
 - 🔭 I’m currently working on: The Odin Project
 - 🌱 I’m currently learning: NodeJS Runtime Enviroment and Express JavaScript Framework.
 - 👯 I’m looking to collaborate on: Cool Stuff!
-- 📫 How to reach me: syedwadoodhassan@gmail.com
 
 ### Programming Languages & Technologies 👨🏽‍💻
 
