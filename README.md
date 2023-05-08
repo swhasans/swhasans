@@ -11,8 +11,7 @@
 
 ### About Myself 👨🏽‍💼 
 - ⚡ Passionate Software Developer skilled in programming and problem-solving.
-- 📨 Seeking new opportunities to learn and grow. #RecentGraduate #SoftwareDeveloper
-- 👨🏽‍💻 Excited to join a team where I can continue to learn and grow professionally.
+- 👨🏽‍💻 Excited to join a team where I can continue to learn and grow professionally. #RecentGraduate #SoftwareDeveloper
 - 🔭 I’m currently working on: The Odin Project
 - 🌱 I’m currently learning: NodeJS Runtime Enviroment and Express JavaScript Framework.
 - 👯 I’m looking to collaborate on: Cool Stuff!
