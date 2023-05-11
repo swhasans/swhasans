@@ -13,7 +13,7 @@
 - ⚡ Passionate Software Developer skilled in programming and problem-solving.
 - 👨🏽‍💻 Excited to join a team where I can continue to learn and grow professionally. #RecentGraduate #SoftwareDeveloper
 - 🔭 I’m currently working on: The Odin Project
-- 🌱 I’m currently learning: NodeJS Runtime Enviroment and Express JavaScript Framework.
+- 🌱 I’m currently learning:  Node.js runtime environment and the Express.js framework, as well as working on projects that involve MongoDB.
 - 👯 I’m looking to collaborate on: Cool Stuff!
 
 ### Programming Languages & Technologies 👨🏽‍💻
