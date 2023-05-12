@@ -19,13 +19,12 @@
 ### Programming Languages & Technologies 👨🏽‍💻
 
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
-<img alt="Ruby" src="https://img.shields.io/badge/ruby-9C033A.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> 
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white">
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img alt="Shell Script" src="https://img.shields.io/badge/Bash_Shell%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white">
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?style=for-the-badge&logo=svg&logoColor=white">
@@ -33,7 +32,6 @@
 <img alt="VHDL" src="https://custom-icon-badges.demolab.com/badge/VHDL-000000.svg?style=for-the-badge&logoColor=white">
 
 <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter%20-blue.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="PyQT" src="https://img.shields.io/badge/PyQT%20-green.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-9C033A.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 <img alt="JMeter" src="https://img.shields.io/badge/Apache%20JMeter-D22128.svg?&style=for-the-badge&logo=apache-jmeter&logoColor=white"/>
 <img alt="catch2" src="https://custom-icon-badges.demolab.com/badge/Catch2-black.svg?style=for-the-badge&logo=cpp2&logoColor=white">
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
@@ -63,6 +61,8 @@
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> -->
+<!-- <img alt="Ruby" src="https://img.shields.io/badge/ruby-9C033A.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>  -->
+<!-- <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-9C033A.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> -->
 
 
 
