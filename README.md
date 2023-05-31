@@ -54,6 +54,8 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?style=for-the-badge&logo=notion&logoColor=white">
+<img alt="AJAX" src="https://img.shields.io/badge/AJAX-blue?style=for-the-badge&logoColor=blue"/>
+<img alt="JDBC" src="https://img.shields.io/badge/JDBC-FF7F50?style=for-the-badge&logo=java&logoColor=white"/>
 
 ## 🧪 Testing
 
@@ -61,8 +63,6 @@
 <img alt="catch2" src="https://custom-icon-badges.demolab.com/badge/Catch2-black.svg?style=for-the-badge&logo=cpp2&logoColor=white">
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
 <img alt="JSoup" src="https://img.shields.io/badge/JSoup-orange?style=for-the-badge&logoColor=white"/>
-<img alt="AJAX" src="https://img.shields.io/badge/AJAX-blue?style=for-the-badge&logoColor=blue"/>
-<img alt="JDBC" src="https://img.shields.io/badge/JDBC-FF7F50?style=for-the-badge&logo=java&logoColor=white"/>
 
 <!-- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
