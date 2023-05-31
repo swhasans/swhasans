@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning:  Node.js runtime environment and the Express.js framework, as well as working on projects that involve MongoDB.
 - 👯 I’m looking to collaborate on: Cool Stuff!
 
-### Programming Languages & Technologies 👨🏽‍💻
+### Technologies 👨🏽‍💻
 
 ## 📋 Languages
 
