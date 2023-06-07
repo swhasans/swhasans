@@ -70,7 +70,6 @@
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> -->
 <!-- <img alt="Ruby" src="https://img.shields.io/badge/ruby-9C033A.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>  -->
 <!-- <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-9C033A.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> -->
-<!-- <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?style=for-the-badge&logo=notion&logoColor=white"> -->
 
 
 
