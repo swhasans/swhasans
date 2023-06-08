@@ -1,24 +1,24 @@
-### Hi there 👋🏽, I'm Syed
+# Hi there 👋🏽, I'm Syed
 
 [![](https://img.shields.io/badge/📄resume-black?&style=for-the-badge)](https://github.com/swhasans/Resume/blob/0e861fc4ac6929cc960ca0c47fd544f02bb30c06/Syed%20W.%20Hasan%20-%20Software%20Engineer%20Resume.pdf)
 
-#### Where to find me 📨
+## Where to find me 📨
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedwadoodhasan-5a7bb21a8)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedwadoodhassan+G_H@gmail.com)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:SS3858+G_H@live.mdx.ac.uk)
 <!-- <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> -->
 
-### About Myself 👨🏽‍💼 
+## About Myself 👨🏽‍💼 
 - ⚡ Passionate Software Developer skilled in programming and problem-solving.
 - 👨🏽‍💻 Excited to join a team where I can continue to learn and grow professionally. #RecentGraduate #SoftwareDeveloper
 - 🔭 I’m currently working on: The Odin Project
 - 🌱 I'm currently learning the Node.js runtime environment and the Express.js framework, while also delving into projects that utilize MongoDB with the aid of the Mongoose ODM.
 - 👯 I’m looking to collaborate on: Cool Stuff!
 
-### Tech Stack 👨🏽‍💻
+## Tech Stack 👨🏽‍💻
 
-## 📋 Languages
+### 📋 Languages
 
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -33,11 +33,11 @@
 <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?style=for-the-badge&logo=svg&logoColor=white"/>
 <img alt="VHDL" src="https://custom-icon-badges.demolab.com/badge/VHDL-000000.svg?style=for-the-badge&logoColor=white"/>
 
-## 💾 Databases
+### 💾 Databases
 
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-## 📚 Frameworks, Platforms, Libraries and Others
+### 📚 Frameworks, Platforms, Libraries and Others
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/>
@@ -58,7 +58,7 @@
 <img alt="AJAX" src="https://img.shields.io/badge/AJAX-blue?style=for-the-badge&logoColor=blue"/>
 <img alt="JDBC" src="https://img.shields.io/badge/JDBC-FF7F50?style=for-the-badge&logo=java&logoColor=white"/>
 
-## 🧪 Testing
+### 🧪 Testing
 
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/> <img alt="JMeter" src="https://img.shields.io/badge/Apache%20JMeter-D22128.svg?&style=for-the-badge&logo=apache-jmeter&logoColor=white"/>
 <img alt="catch2" src="https://custom-icon-badges.demolab.com/badge/Catch2-black.svg?style=for-the-badge&logo=cpp2&logoColor=white"/>
@@ -77,7 +77,7 @@
 | --- | ----------- |
  -->
 
-### GitHub Profile Stats 💻
+## GitHub Profile Stats 💻
 
 |  <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Swhasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Swhasans&show_icons=true&include_all_commits=true&count_private=true&theme=dark&font=Lato" height="192px"/></a> | <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Swhasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Swhasans&layout=compact&langs_count=8&theme=dark&font=Lato" height="192px"/></a> | <p align="center"> <a href="https://leetcode.com/Swhasan/"><img alt="Swhasan's LeetCode Stats" src="https://leetcard.jacoblin.cool/Swhasan?theme=dark&font=Lato" height="192px"/></a> |
 | --- | ----------- | ----------- |
