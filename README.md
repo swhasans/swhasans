@@ -16,7 +16,7 @@
 - 🌱 I'm currently learning the Node.js runtime environment and the Express.js framework, while also delving into projects that utilize MongoDB with the aid of the Mongoose ODM.
 - 👯 I’m looking to collaborate on: Cool Stuff!
 
-### Technologies 👨🏽‍💻
+### Tech Stack 👨🏽‍💻
 
 ## 📋 Languages
 
@@ -71,8 +71,6 @@
 <!-- <img alt="Ruby" src="https://img.shields.io/badge/ruby-9C033A.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>  -->
 <!-- <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-9C033A.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> -->
 
-
-
 <!-- ### GitHub Profile Stats 💻
 
 |  <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Deadrep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Deadrep&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="192px"/></a> | <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Deadrep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Deadrep&layout=compact&langs_count=8&theme=dark" height="192px"/></a> |
@@ -119,7 +117,8 @@
  
 
 
-<!-- |      Month     |  Week 1 |  Week 2 |  Week 3 |  Week 4 |  Week 5 |
+<!--
+|      Month     |  Week 1 |  Week 2 |  Week 3 |  Week 4 |  Week 5 |
 |:--------------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |    January     |    ✓    |    ✓    |    ✓    |    ✓    |    ✓    |
 |    February    |    ✓    |    ✓    |    ✓    |    ✓    |  
@@ -132,7 +131,8 @@
 |   September    |    ✕    |    ✕    |    ✕    |    ✕    |    ✕    |
 |    October     |    ✕    |    ✕    |    ✕    |    ✕    |    ✕    |
 |    November    |    ✕    |    ✕    |    ✕    |    ✕    |    ✕    |
-|    December    |    ✕    |    ✕    |    ✕    |    ✕    |    ✕    | -->
+|    December    |    ✕    |    ✕    |    ✕    |    ✕    |    ✕    | 
+-->
 
 
 
