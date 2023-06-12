@@ -89,11 +89,6 @@
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Deadrep's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=Deadrep&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Deadrep's Top Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deadrep&langs_count=8&layout=compact&theme=dark"/>
-</a> -->
-<!-- ------------------------------------------------------------------------------------------------------------ -->
  
 <!--
 |      Month     |  Week 1 |  Week 2 |  Week 3 |  Week 4 |  Week 5 |
