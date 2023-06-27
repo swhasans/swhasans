@@ -78,11 +78,6 @@
 
 <p align="center"> <img width="2%" src="https://visitor-badge.glitch.me/badge?page_id=swhasans.swhasans" />
 
-<!-- ------------------------------------------------------------------------------------------------------------ -->
-<!-- | ![](https://denvercoder1-github-readme-stats.vercel.app/api/?username=Deadrep&show_icons=true&include_all_commits=true&count_private=true&theme=dark) | ![](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Deadrep&layout=compact&langs_count=8&theme=dark) |
-| --- | ----------- | -->
-<!-- ------------------------------------------------------------------------------------------------------------ -->
- 
 <!--
 |      Month     |  Week 1 |  Week 2 |  Week 3 |  Week 4 |  Week 5 |
 |:--------------:|:-------:|:-------:|:-------:|:-------:|:-------:|
