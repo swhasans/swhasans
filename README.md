@@ -63,7 +63,6 @@
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/> <img alt="JMeter" src="https://img.shields.io/badge/Apache%20JMeter-D22128.svg?&style=for-the-badge&logo=apache-jmeter&logoColor=white"/>
 <img alt="catch2" src="https://custom-icon-badges.demolab.com/badge/Catch2-black.svg?style=for-the-badge&logo=cpp2&logoColor=white"/>
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
-
 <!-- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <!-- <img alt="Ruby" src="https://img.shields.io/badge/ruby-9C033A.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>  -->
 <!-- <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-9C033A.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> -->
