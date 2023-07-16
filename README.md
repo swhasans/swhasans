@@ -57,6 +57,7 @@
 <img alt="JSoup" src="https://img.shields.io/badge/JSoup-orange?style=for-the-badge&logoColor=white"/>
 <img alt="AJAX" src="https://img.shields.io/badge/AJAX-blue?style=for-the-badge&logoColor=blue"/>
 <img alt="JDBC" src="https://img.shields.io/badge/JDBC-FF7F50?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
 
 ### 🧪 Testing
 
