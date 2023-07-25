@@ -46,7 +46,6 @@
 <img alt="MS PowerAutomate" src="https://img.shields.io/badge/MS%20PowerAutomate-5E5E5E.svg?&style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img alt="FreeCAD" src="https://img.shields.io/badge/FreeCAD-FF6347.svg?style=for-the-badge&logoColor=white"/>
 <img alt="Ultimaker Cura" src="https://img.shields.io/badge/Ultimaker%20Cura-blue.svg?style=for-the-badge&logoColor=white"/>
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img alt="adafruit" src="https://img.shields.io/badge/Adafruit-000000?style=for-the-badge&logo=Adafruit&logoColor=white"/>
 <img alt="raspberrypi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/>
