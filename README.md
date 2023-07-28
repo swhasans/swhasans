@@ -1,5 +1,4 @@
 # Hi there 👋🏽, I'm Syed
-
 [![](https://img.shields.io/badge/📄resume-black?&style=for-the-badge)](https://github.com/swhasans/Resume/blob/0e861fc4ac6929cc960ca0c47fd544f02bb30c06/Syed%20W.%20Hasan%20-%20Software%20Engineer%20Resume.pdf)
 
 ## Where to find me 📨
