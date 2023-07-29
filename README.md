@@ -65,7 +65,7 @@
 <!-- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <!-- <img alt="Ruby" src="https://img.shields.io/badge/ruby-9C033A.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>  --><!-- <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-9C033A.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> -->
 
-## GitHub Profile Stats 💻
+## Profile Stats 💻
 
 |  <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Swhasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Swhasans&show_icons=true&include_all_commits=true&count_private=true&theme=dark&font=Lato" height="192px"/></a> | <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Swhasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Swhasans&layout=compact&langs_count=8&theme=dark&font=Lato" height="192px"/></a> | <p align="center"> <a href="https://leetcode.com/Swhasan/"><img alt="Swhasan's LeetCode Stats" src="https://leetcard.jacoblin.cool/Swhasan?theme=dark&font=Lato" height="192px"/></a> |
 | --- | ----------- | ----------- |
