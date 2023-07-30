@@ -2,7 +2,6 @@
 [![](https://img.shields.io/badge/📄resume-black?&style=for-the-badge)](https://github.com/swhasans/Resume/blob/0e861fc4ac6929cc960ca0c47fd544f02bb30c06/Syed%20W.%20Hasan%20-%20Software%20Engineer%20Resume.pdf)
 
 ## Where to find me 📨
-
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedwadoodhasan-5a7bb21a8)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedwadoodhassan+G_H@gmail.com)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:syedwadoodhassan+G_H@outlook.com)
