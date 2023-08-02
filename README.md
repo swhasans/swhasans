@@ -15,7 +15,6 @@
 - 👯 I’m looking to collaborate on: Cool Stuff!
 
 ## Tech Stack 👨🏽‍💻
-
 ### 📋 Languages
 
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
@@ -83,7 +82,7 @@
 |     April      |    ✓    |    ✓    |    ✓    |    ✓    |    ✓    |
 |      May       |    ✓    |    ✓    |    ✓    |    ✓    |    ✓    |
 |      June      |    ✓    |    ✓    |    ✓    |    ✓    |    ✓    |
-|      July      |    ✓    |    ✓    |    ✓    |    ✕    |    ✕    |
+|      July      |    ✓    |    ✓    |    ✓    |    ✓    |    ✓    |
 |     August     |    ✕    |    ✕    |    ✕    |    ✕    |    ✕    |
 |   September    |    ✕    |    ✕    |    ✕    |    ✕    |    ✕    |
 |    October     |    ✕    |    ✕    |    ✕    |    ✕    |    ✕    |
