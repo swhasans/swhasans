@@ -53,7 +53,6 @@
 <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
 
 ### 🧪 Testing
-
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/> <img alt="JMeter" src="https://img.shields.io/badge/Apache%20JMeter-D22128.svg?&style=for-the-badge&logo=apache-jmeter&logoColor=white"/>
 <img alt="catch2" src="https://custom-icon-badges.demolab.com/badge/Catch2-black.svg?style=for-the-badge&logo=cpp2&logoColor=white"/>
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
