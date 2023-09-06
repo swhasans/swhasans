@@ -51,6 +51,7 @@
 <img alt="AJAX" src="https://img.shields.io/badge/AJAX-blue?style=for-the-badge&logoColor=blue"/>
 <img alt="JDBC" src="https://img.shields.io/badge/JDBC-FF7F50?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
 
 ### 🧪 Testing
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/> <img alt="JMeter" src="https://img.shields.io/badge/Apache%20JMeter-D22128.svg?&style=for-the-badge&logo=apache-jmeter&logoColor=white"/>
