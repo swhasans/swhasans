@@ -81,7 +81,7 @@
 |      July      |    ✓    |    ✓    |    ✓    |    ✓    |    ✓    |
 |     August     |    ✓    |    ✓    |    ✓    |    ✓    |    ✓    |
 |   September    |    ✓    |    ✓    |    ✓    |    ✓    |    ✓    |
-|    October     |    ✓    |    ✕    |    ✕    |    ✕    |    ✕    |
+|    October     |    ✓    |    ✓    |    ✕    |    ✕    |    ✕    |
 |    November    |    ✕    |    ✕    |    ✕    |    ✕    |    ✕    |
 |    December    |    ✕    |    ✕    |    ✕    |    ✕    |    ✕    | 
 -->
