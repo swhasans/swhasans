@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:syedwadoodhassan+G_H@outlook.com)
 [![](https://img.shields.io/badge/-Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/140874218324623360)
 
-## About Myself 👨🏽‍💼 
+## About Myself 👨🏽‍💼  
 - ⚡ Passionate Software Developer skilled in programming and problem-solving.
 - 👨🏽‍💻 Excited to join a team where I can continue to learn and grow professionally. #RecentGraduate #SoftwareDeveloper
 - 🔭 I’m currently working on: The Odin Project
